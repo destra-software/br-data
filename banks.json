@@ -1,0 +1,2698 @@
+[
+  {
+    "code": 1,
+    "ispb": 0,
+    "cnpj": "00.000.000/0001-91",
+    "companyName": "Banco do Brasil S.A.",
+    "name": "BCO DO BRASIL S.A.",
+    "url": "https://www.bb.com.br"
+  },
+  {
+    "code": 3,
+    "ispb": 4902979,
+    "cnpj": "04.902.979/0001-44",
+    "companyName": "Banco da Amazônia S.A.",
+    "name": "BCO DA AMAZONIA S.A.",
+    "url": "https://www.bancoamazonia.com.br"
+  },
+  {
+    "code": 4,
+    "ispb": 7237373,
+    "cnpj": "07.237.373/0001-20",
+    "companyName": "Banco do Nordeste do Brasil S.A.",
+    "name": "BCO DO NORDESTE DO BRASIL S.A.",
+    "url": "https://www.banconordeste.gov.br"
+  },
+  {
+    "code": 7,
+    "ispb": 33657248,
+    "cnpj": "33.657.248/0001-89",
+    "companyName": "BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL",
+    "name": "BNDES",
+    "url": null
+  },
+  {
+    "code": 10,
+    "ispb": 81723108,
+    "cnpj": "81.723.108/0001-04",
+    "companyName": "CREDICOAMO CREDITO RURAL COOPERATIVA",
+    "name": "CREDICOAMO",
+    "url": null
+  },
+  {
+    "code": 11,
+    "ispb": 61809182,
+    "cnpj": "61.809.182/0001-30",
+    "companyName": "CREDIT SUISSE HEDGING-GRIFFO CORRETORA DE VALORES S.A",
+    "name": "C.SUISSE HEDGING-GRIFFO CV S/A",
+    "url": null
+  },
+  {
+    "code": 12,
+    "ispb": 4866275,
+    "cnpj": "04.866.275/0001-63",
+    "companyName": "Banco Inbursa S.A.",
+    "name": "BANCO INBURSA",
+    "url": "https://www.bancoinbursa.com"
+  },
+  {
+    "code": 14,
+    "ispb": 9274232,
+    "cnpj": "09.274.232/0001-02",
+    "companyName": "STATE STREET BRASIL S.A. - BANCO COMERCIAL",
+    "name": "STATE STREET BR S.A. BCO COMERCIAL",
+    "url": null
+  },
+  {
+    "code": 15,
+    "ispb": 2819125,
+    "cnpj": "02.819.125/0001-73",
+    "companyName": "UBS Brasil Corretora de Câmbio Títulos e Valores Mobiliários S.A.",
+    "name": "UBS BRASIL CCTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 16,
+    "ispb": 4715685,
+    "cnpj": "04.715.685/0001-03",
+    "companyName": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI",
+    "name": "CCM DESP TRÂNS SC E RS",
+    "url": null
+  },
+  {
+    "code": 17,
+    "ispb": 42272526,
+    "cnpj": "42.272.526/0001-70",
+    "companyName": "BNY Mellon Banco S.A.",
+    "name": "BNY MELLON BCO S.A.",
+    "url": "https://www.bnymellon.com.br"
+  },
+  {
+    "code": 18,
+    "ispb": 57839805,
+    "cnpj": "57.839.805/0001-40",
+    "companyName": "Banco Tricury S.A.",
+    "name": "BCO TRICURY S.A.",
+    "url": "https://www.bancotricury.com.br"
+  },
+  {
+    "code": 21,
+    "ispb": 28127603,
+    "cnpj": "28.127.603/0001-78",
+    "companyName": "BANESTES S.A. Banco do Estado do Espírito Santo",
+    "name": "BCO BANESTES S.A.",
+    "url": "https://www.banestes.com.br"
+  },
+  {
+    "code": 24,
+    "ispb": 10866788,
+    "cnpj": "10.866.788/0001-77",
+    "companyName": "Banco Bandepe S.A.",
+    "name": "BCO BANDEPE S.A.",
+    "url": "https://www.santander.com.br"
+  },
+  {
+    "code": 25,
+    "ispb": 3323840,
+    "cnpj": "03.323.840/0001-83",
+    "companyName": "Banco Alfa S.A.",
+    "name": "BCO ALFA S.A.",
+    "url": "https://www.bancoalfa.com.br"
+  },
+  {
+    "code": 29,
+    "ispb": 33885724,
+    "cnpj": "33.885.724/0001-19",
+    "companyName": "Banco Itaú Consignado S.A.",
+    "name": "BANCO ITAÚ CONSIGNADO S.A.",
+    "url": "https://www.itau.com.br"
+  },
+  {
+    "code": 33,
+    "ispb": 90400888,
+    "cnpj": "90.400.888/0001-42",
+    "companyName": "BANCO SANTANDER (BRASIL) S.A.",
+    "name": "BCO SANTANDER (BRASIL) S.A.",
+    "url": "https://www.santander.com.br"
+  },
+  {
+    "code": 36,
+    "ispb": 6271464,
+    "cnpj": "06.271.464/0001-19",
+    "companyName": "Banco Bradesco BBI S.A.",
+    "name": "BCO BBI S.A.",
+    "url": "https://www.bradescobbi.com.br"
+  },
+  {
+    "code": 37,
+    "ispb": 4913711,
+    "cnpj": "04.913.711/0001-08",
+    "companyName": "Banco do Estado do Pará S.A.",
+    "name": "BCO DO EST. DO PA S.A.",
+    "url": "https://www.banpara.b.br"
+  },
+  {
+    "code": 40,
+    "ispb": 3609817,
+    "cnpj": "03.609.817/0001-50",
+    "companyName": "Banco Cargill S.A.",
+    "name": "BCO CARGILL S.A.",
+    "url": "https://www.bancocargill.com.br"
+  },
+  {
+    "code": 41,
+    "ispb": 92702067,
+    "cnpj": "92.702.067/0001-96",
+    "companyName": "Banco do Estado do Rio Grande do Sul S.A.",
+    "name": "BCO DO ESTADO DO RS S.A.",
+    "url": "https://www.banrisul.com.br"
+  },
+  {
+    "code": 47,
+    "ispb": 13009717,
+    "cnpj": "13.009.717/0001-46",
+    "companyName": "Banco do Estado de Sergipe S.A.",
+    "name": "BCO DO EST. DE SE S.A.",
+    "url": "https://www.banese.com.br"
+  },
+  {
+    "code": 60,
+    "ispb": 4913129,
+    "cnpj": "04.913.129/0001-41",
+    "companyName": "Confidence Corretora de Câmbio S.A.",
+    "name": "CONFIDENCE CC S.A.",
+    "url": null
+  },
+  {
+    "code": 62,
+    "ispb": 3012230,
+    "cnpj": "03.012.230/0001-69",
+    "companyName": "Hipercard Banco Múltiplo S.A.",
+    "name": "HIPERCARD BM S.A.",
+    "url": "https://www.hipercard.com.br"
+  },
+  {
+    "code": 63,
+    "ispb": 4184779,
+    "cnpj": "04.184.779/0001-01",
+    "companyName": "Banco Bradescard S.A.",
+    "name": "BANCO BRADESCARD",
+    "url": "https://www.ibi.com.br"
+  },
+  {
+    "code": 64,
+    "ispb": 4332281,
+    "cnpj": "04.332.281/0001-30",
+    "companyName": "Goldman Sachs do Brasil Banco Múltiplo S.A.",
+    "name": "GOLDMAN SACHS DO BRASIL BM S.A",
+    "url": "https://www.goldmansachs.com"
+  },
+  {
+    "code": 65,
+    "ispb": 48795256,
+    "cnpj": "48.795.256/0001-69",
+    "companyName": "Banco AndBank (Brasil) S.A.",
+    "name": "BCO ANDBANK S.A.",
+    "url": "https://www.andbank-lla.com.br"
+  },
+  {
+    "code": 66,
+    "ispb": 2801938,
+    "cnpj": "02.801.938/0001-36",
+    "companyName": "BANCO MORGAN STANLEY S.A.",
+    "name": "BCO MORGAN STANLEY S.A.",
+    "url": "https://www.morganstanley.com.br"
+  },
+  {
+    "code": 69,
+    "ispb": 61033106,
+    "cnpj": "61.033.106/0001-86",
+    "companyName": "Banco Crefisa S.A.",
+    "name": "BCO CREFISA S.A.",
+    "url": "https://www.crefisa.com.br"
+  },
+  {
+    "code": 70,
+    "ispb": 208,
+    "cnpj": "00.000.208/0001-00",
+    "companyName": "BRB - Banco de Brasília S.A.",
+    "name": "BRB - BCO DE BRASILIA S.A.",
+    "url": "https://www.brb.com.br"
+  },
+  {
+    "code": 74,
+    "ispb": 3017677,
+    "cnpj": "03.017.677/0001-20",
+    "companyName": "Banco J. Safra S.A.",
+    "name": "BCO. J.SAFRA S.A.",
+    "url": "https://www.safra.com.br"
+  },
+  {
+    "code": 75,
+    "ispb": 3532415,
+    "cnpj": "03.532.415/0001-02",
+    "companyName": "Banco ABN Amro S.A.",
+    "name": "BCO ABN AMRO S.A.",
+    "url": "https://www.abnamro.com"
+  },
+  {
+    "code": 76,
+    "ispb": 7656500,
+    "cnpj": "07.656.500/0001-25",
+    "companyName": "Banco KDB do Brasil S.A.",
+    "name": "BCO KDB BRASIL S.A.",
+    "url": "https://www.bancokdb.com.br/home.html"
+  },
+  {
+    "code": 77,
+    "ispb": 416968,
+    "cnpj": "00.416.968/0001-01",
+    "companyName": "Banco Inter S.A.",
+    "name": "BANCO INTER",
+    "url": "https://www.bancointer.com.br"
+  },
+  {
+    "code": 78,
+    "ispb": 34111187,
+    "cnpj": "34.111.187/0001-12",
+    "companyName": "Haitong Banco de Investimento do Brasil S.A.",
+    "name": "HAITONG BI DO BRASIL S.A.",
+    "url": null
+  },
+  {
+    "code": 79,
+    "ispb": 9516419,
+    "cnpj": "09.516.419/0001-75",
+    "companyName": "PICPAY BANK - BANCO MÚLTIPLO S.A",
+    "name": "PICPAY BANK - BANCO MÚLTIPLO S.A",
+    "url": "https://www.bancooriginal.com.br"
+  },
+  {
+    "code": 80,
+    "ispb": 73622748,
+    "cnpj": "73.622.748/0001-08",
+    "companyName": "B&T CORRETORA DE CAMBIO LTDA.",
+    "name": "B&T CC LTDA.",
+    "url": null
+  },
+  {
+    "code": 81,
+    "ispb": 10264663,
+    "cnpj": "10.264.663/0001-77",
+    "companyName": "BancoSeguro S.A.",
+    "name": "BANCOSEGURO S.A.",
+    "url": "https://www.rendimento.com.br"
+  },
+  {
+    "code": 82,
+    "ispb": 7679404,
+    "cnpj": "07.679.404/0001-00",
+    "companyName": "BANCO TOPÁZIO S.A.",
+    "name": "BANCO TOPÁZIO S.A.",
+    "url": "https://www.bancotopazio.com.br"
+  },
+  {
+    "code": 83,
+    "ispb": 10690848,
+    "cnpj": "10.690.848/0001-43",
+    "companyName": "Banco da China Brasil S.A.",
+    "name": "BCO DA CHINA BRASIL S.A.",
+    "url": "https://www.boc-brazil.com"
+  },
+  {
+    "code": 84,
+    "ispb": 2398976,
+    "cnpj": "02.398.976/0001-90",
+    "companyName": "UNIPRIME DO BRASIL - COOPERATIVA DE CRÉDITO",
+    "name": "UNIPRIME DO BRASIL - COOP",
+    "url": null
+  },
+  {
+    "code": 85,
+    "ispb": 5463212,
+    "cnpj": "05.463.212/0001-29",
+    "companyName": "Cooperativa Central de Crédito - Ailos",
+    "name": "COOPCENTRAL AILOS",
+    "url": null
+  },
+  {
+    "code": 88,
+    "ispb": 11476673,
+    "cnpj": "11.476.673/0001-39",
+    "companyName": "BANCO RANDON S.A.",
+    "name": "BANCO RANDON S.A.",
+    "url": "https://www.bancorandon.com"
+  },
+  {
+    "code": 89,
+    "ispb": 62109566,
+    "cnpj": "62.109.566/0001-03",
+    "companyName": "CREDISAN COOPERATIVA DE CRÉDITO",
+    "name": "CREDISAN CC",
+    "url": null
+  },
+  {
+    "code": 91,
+    "ispb": 1634601,
+    "cnpj": "01.634.601/0001-19",
+    "companyName": "CENTRAL DE COOPERATIVAS DE ECONOMIA E CRÉDITO MÚTUO DO ESTADO DO RIO GRANDE DO S",
+    "name": "CCCM UNICRED CENTRAL RS",
+    "url": null
+  },
+  {
+    "code": 92,
+    "ispb": 12865507,
+    "cnpj": "12.865.507/0001-97",
+    "companyName": "BRK S.A. Crédito Financiamento e Investimento",
+    "name": "BRK S.A. CFI",
+    "url": null
+  },
+  {
+    "code": 93,
+    "ispb": 7945233,
+    "cnpj": "07.945.233/0001-06",
+    "companyName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT",
+    "name": "POLOCRED SCMEPP LTDA.",
+    "url": null
+  },
+  {
+    "code": 94,
+    "ispb": 11758741,
+    "cnpj": "11.758.741/0001-52",
+    "companyName": "Banco Finaxis S.A.",
+    "name": "BANCO FINAXIS",
+    "url": "https://www.finaxis.com.br"
+  },
+  {
+    "code": 95,
+    "ispb": 11703662,
+    "cnpj": "11.703.662/0001-44",
+    "companyName": "Travelex Banco de Câmbio S.A.",
+    "name": "TRAVELEX BANCO DE CÂMBIO S.A.",
+    "url": "https://www.bancoconfidence.com.br"
+  },
+  {
+    "code": 96,
+    "ispb": 997185,
+    "cnpj": "00.997.185/0001-50",
+    "companyName": "Banco B3 S.A.",
+    "name": "BCO B3 S.A.",
+    "url": "https://www.bmfbovespa.com.br/bancobmfbovespa/"
+  },
+  {
+    "code": 97,
+    "ispb": 4632856,
+    "cnpj": "04.632.856/0001-30",
+    "companyName": "Credisis - Central de Cooperativas de Crédito Ltda.",
+    "name": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
+    "url": null
+  },
+  {
+    "code": 98,
+    "ispb": 78157146,
+    "cnpj": "78.157.146/0001-32",
+    "companyName": "Credialiança Cooperativa de Crédito Rural",
+    "name": "CREDIALIANÇA CCR",
+    "url": null
+  },
+  {
+    "code": 99,
+    "ispb": 3046391,
+    "cnpj": "03.046.391/0001-73",
+    "companyName": "UNIPRIME CENTRAL NACIONAL - CENTRAL NACIONAL DE COOPERATIVA DE CREDITO",
+    "name": "UNIPRIME COOPCENTRAL LTDA.",
+    "url": null
+  },
+  {
+    "code": 100,
+    "ispb": 806535,
+    "cnpj": "00.806.535/0001-54",
+    "companyName": "Planner Corretora de Valores S.A.",
+    "name": "PLANNER CV S.A.",
+    "url": null
+  },
+  {
+    "code": 101,
+    "ispb": 62287735,
+    "cnpj": "62.287.735/0001-03",
+    "companyName": "RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "name": "RENASCENCA DTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 102,
+    "ispb": 2332886,
+    "cnpj": "02.332.886/0001-04",
+    "companyName": "XP INVESTIMENTOS CORRETORA DE CÂMBIOTÍTULOS E VALORES MOBILIÁRIOS S/A",
+    "name": "XP INVESTIMENTOS CCTVM S/A",
+    "url": null
+  },
+  {
+    "code": 144,
+    "ispb": 13059145,
+    "cnpj": "13.059.145/0001-00",
+    "companyName": "BEXS BANCO DE CÂMBIO S/A",
+    "name": "BEXS BCO DE CAMBIO S.A.",
+    "url": "https://www.bexs.com.br"
+  },
+  {
+    "code": 104,
+    "ispb": 360305,
+    "cnpj": "00.360.305/0001-04",
+    "companyName": "Caixa Econômica Federal",
+    "name": "CAIXA ECONOMICA FEDERAL",
+    "url": "https://www.caixa.gov.br"
+  },
+  {
+    "code": 105,
+    "ispb": 7652226,
+    "cnpj": "07.652.226/0001-16",
+    "companyName": "Lecca Crédito Financiamento e Investimento S/A",
+    "name": "LECCA CFI S.A.",
+    "url": null
+  },
+  {
+    "code": 107,
+    "ispb": 15114366,
+    "cnpj": "15.114.366/0001-69",
+    "companyName": "Banco Bocom BBM S.A.",
+    "name": "BCO BOCOM BBM S.A.",
+    "url": "https://www.bancobbm.com.br"
+  },
+  {
+    "code": 108,
+    "ispb": 1800019,
+    "cnpj": "01.800.019/0001-85",
+    "companyName": "PORTOCRED S.A. - CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "PORTOCRED S.A. - CFI",
+    "url": null
+  },
+  {
+    "code": 111,
+    "ispb": 36113876,
+    "cnpj": "36.113.876/0001-91",
+    "companyName": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.",
+    "name": "OLIVEIRA TRUST DTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 113,
+    "ispb": 61723847,
+    "cnpj": "61.723.847/0001-99",
+    "companyName": "NEON CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "NEON CTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 114,
+    "ispb": 5790149,
+    "cnpj": "05.790.149/0001-35",
+    "companyName": "Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP",
+    "name": "CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO",
+    "url": null
+  },
+  {
+    "code": 117,
+    "ispb": 92856905,
+    "cnpj": "92.856.905/0001-86",
+    "companyName": "ADVANCED CORRETORA DE CÂMBIO LTDA",
+    "name": "ADVANCED CC LTDA",
+    "url": null
+  },
+  {
+    "code": 119,
+    "ispb": 13720915,
+    "cnpj": "13.720.915/0001-13",
+    "companyName": "Banco Western Union do Brasil S.A.",
+    "name": "BCO WESTERN UNION",
+    "url": "https://www.bancowesternunion.com.br"
+  },
+  {
+    "code": 120,
+    "ispb": 33603457,
+    "cnpj": "33.603.457/0001-40",
+    "companyName": "BANCO RODOBENS S.A.",
+    "name": "BCO RODOBENS S.A.",
+    "url": "https://www.rodobens.com.br"
+  },
+  {
+    "code": 121,
+    "ispb": 10664513,
+    "cnpj": "10.664.513/0001-50",
+    "companyName": "Banco Agibank S.A.",
+    "name": "BCO AGIBANK S.A.",
+    "url": "https://www.agibank.com.br"
+  },
+  {
+    "code": 122,
+    "ispb": 33147315,
+    "cnpj": "33.147.315/0001-15",
+    "companyName": "Banco Bradesco BERJ S.A.",
+    "name": "BCO BRADESCO BERJ S.A.",
+    "url": "https://true"
+  },
+  {
+    "code": 124,
+    "ispb": 15357060,
+    "cnpj": "15.357.060/0001-33",
+    "companyName": "Banco Woori Bank do Brasil S.A.",
+    "name": "BCO WOORI BANK DO BRASIL S.A.",
+    "url": "https://www.wooribank.com.br"
+  },
+  {
+    "code": 125,
+    "ispb": 45246410,
+    "cnpj": "45.246.410/0001-55",
+    "companyName": "BANCO GENIAL S.A.",
+    "name": "BANCO GENIAL",
+    "url": "https://www.brasilplural.com"
+  },
+  {
+    "code": 126,
+    "ispb": 13220493,
+    "cnpj": "13.220.493/0001-17",
+    "companyName": "BR Partners Banco de Investimento S.A.",
+    "name": "BR PARTNERS BI",
+    "url": null
+  },
+  {
+    "code": 127,
+    "ispb": 9512542,
+    "cnpj": "09.512.542/0001-18",
+    "companyName": "Codepe Corretora de Valores e Câmbio S.A.",
+    "name": "CODEPE CVC S.A.",
+    "url": null
+  },
+  {
+    "code": 128,
+    "ispb": 19307785,
+    "cnpj": "19.307.785/0001-78",
+    "companyName": "MS Bank S.A. Banco de Câmbio",
+    "name": "MS BANK S.A. BCO DE CÂMBIO",
+    "url": "https://www.msbank.com.br"
+  },
+  {
+    "code": 129,
+    "ispb": 18520834,
+    "cnpj": "18.520.834/0001-93",
+    "companyName": "UBS Brasil Banco de Investimento S.A.",
+    "name": "UBS BRASIL BI S.A.",
+    "url": "https://www.ubs.com"
+  },
+  {
+    "code": 130,
+    "ispb": 9313766,
+    "cnpj": "09.313.766/0001-09",
+    "companyName": "CARUANA S.A. - SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "CARUANA SCFI",
+    "url": null
+  },
+  {
+    "code": 131,
+    "ispb": 61747085,
+    "cnpj": "61.747.085/0001-60",
+    "companyName": "TULLETT PREBON BRASIL CORRETORA DE VALORES E CÂMBIO LTDA",
+    "name": "TULLETT PREBON BRASIL CVC LTDA",
+    "url": null
+  },
+  {
+    "code": 132,
+    "ispb": 17453575,
+    "cnpj": "17.453.575/0001-62",
+    "companyName": "ICBC do Brasil Banco Múltiplo S.A.",
+    "name": "ICBC DO BRASIL BM S.A.",
+    "url": "https://www.icbc.com.cn"
+  },
+  {
+    "code": 133,
+    "ispb": 10398952,
+    "cnpj": "10.398.952/0001-69",
+    "companyName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E",
+    "name": "CRESOL CONFEDERAÇÃO",
+    "url": null
+  },
+  {
+    "code": 134,
+    "ispb": 33862244,
+    "cnpj": "33.862.244/0001-32",
+    "companyName": "BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "name": "BGC LIQUIDEZ DTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 136,
+    "ispb": 315557,
+    "cnpj": "00.315.557/0001-11",
+    "companyName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI",
+    "name": "CONF NAC COOP CENTRAIS UNICRED",
+    "url": null
+  },
+  {
+    "code": 138,
+    "ispb": 10853017,
+    "cnpj": "10.853.017/0001-45",
+    "companyName": "Get Money Corretora de Câmbio S.A.",
+    "name": "GET MONEY CC LTDA",
+    "url": null
+  },
+  {
+    "code": 139,
+    "ispb": 55230916,
+    "cnpj": "55.230.916/0001-20",
+    "companyName": "Intesa Sanpaolo Brasil S.A. - Banco Múltiplo",
+    "name": "INTESA SANPAOLO BRASIL S.A. BM",
+    "url": "https://www.intesasanpaolobrasil.com.br"
+  },
+  {
+    "code": 140,
+    "ispb": 62169875,
+    "cnpj": "62.169.875/0001-79",
+    "companyName": "NU INVEST CORRETORA DE VALORES S.A.",
+    "name": "NU INVEST CORRETORA DE VALORES S.A.",
+    "url": null
+  },
+  {
+    "code": 142,
+    "ispb": 16944141,
+    "cnpj": "16.944.141/0001-00",
+    "companyName": "Broker Brasil Corretora de Câmbio Ltda.",
+    "name": "BROKER BRASIL CC LTDA.",
+    "url": null
+  },
+  {
+    "code": 143,
+    "ispb": 2992317,
+    "cnpj": "02.992.317/0001-87",
+    "companyName": "Treviso Corretora de Câmbio S.A.",
+    "name": "TREVISO CC S.A.",
+    "url": null
+  },
+  {
+    "code": 145,
+    "ispb": 50579044,
+    "cnpj": "50.579.044/0001-96",
+    "companyName": "LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA.",
+    "name": "LEVYCAM CCV LTDA",
+    "url": null
+  },
+  {
+    "code": 146,
+    "ispb": 24074692,
+    "cnpj": "24.074.692/0001-80",
+    "companyName": "GUITTA CORRETORA DE CAMBIO LTDA.",
+    "name": "GUITTA CC LTDA",
+    "url": null
+  },
+  {
+    "code": 149,
+    "ispb": 15581638,
+    "cnpj": "15.581.638/0001-30",
+    "companyName": "Facta Financeira S.A. - Crédito Financiamento e Investimento",
+    "name": "FACTA S.A. CFI",
+    "url": null
+  },
+  {
+    "code": 157,
+    "ispb": 9105360,
+    "cnpj": "09.105.360/0001-22",
+    "companyName": "ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda.",
+    "name": "ICAP DO BRASIL CTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 159,
+    "ispb": 5442029,
+    "cnpj": "05.442.029/0001-47",
+    "companyName": "Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor",
+    "name": "CASA CREDITO S.A. SCM",
+    "url": null
+  },
+  {
+    "code": 163,
+    "ispb": 23522214,
+    "cnpj": "23.522.214/0001-23",
+    "companyName": "Commerzbank Brasil S.A. - Banco Múltiplo",
+    "name": "COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO",
+    "url": null
+  },
+  {
+    "code": 173,
+    "ispb": 13486793,
+    "cnpj": "13.486.793/0001-42",
+    "companyName": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "name": "BRL TRUST DTVM SA",
+    "url": null
+  },
+  {
+    "code": 174,
+    "ispb": 43180355,
+    "cnpj": "43.180.355/0001-12",
+    "companyName": "PEFISA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "PEFISA S.A. - C.F.I.",
+    "url": null
+  },
+  {
+    "code": 177,
+    "ispb": 65913436,
+    "cnpj": "65.913.436/0001-17",
+    "companyName": "Guide Investimentos S.A. Corretora de Valores",
+    "name": "GUIDE",
+    "url": null
+  },
+  {
+    "code": 180,
+    "ispb": 2685483,
+    "cnpj": "02.685.483/0001-30",
+    "companyName": "CM CAPITAL MARKETS CORRETORA DE CÂMBIO TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "name": "CM CAPITAL MARKETS CCTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 183,
+    "ispb": 9210106,
+    "cnpj": "09.210.106/0001-94",
+    "companyName": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO P",
+    "name": "SOCRED SA - SCMEPP",
+    "url": null
+  },
+  {
+    "code": 184,
+    "ispb": 17298092,
+    "cnpj": "17.298.092/0001-30",
+    "companyName": "Banco Itaú BBA S.A.",
+    "name": "BCO ITAÚ BBA S.A.",
+    "url": "https://www.itaubba.com.br"
+  },
+  {
+    "code": 188,
+    "ispb": 33775974,
+    "cnpj": "33.775.974/0001-04",
+    "companyName": "ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS CÂMBIO E VALORES",
+    "name": "ATIVA S.A. INVESTIMENTOS CCTVM",
+    "url": null
+  },
+  {
+    "code": 189,
+    "ispb": 7512441,
+    "cnpj": "07.512.441/0001-11",
+    "companyName": "HS FINANCEIRA S/A CREDITO FINANCIAMENTO E INVESTIMENTOS",
+    "name": "HS FINANCEIRA",
+    "url": null
+  },
+  {
+    "code": 190,
+    "ispb": 3973814,
+    "cnpj": "03.973.814/0001-09",
+    "companyName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI",
+    "name": "SERVICOOP",
+    "url": null
+  },
+  {
+    "code": 191,
+    "ispb": 4257795,
+    "cnpj": "04.257.795/0001-79",
+    "companyName": "Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.",
+    "name": "NOVA FUTURA CTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 194,
+    "ispb": 20155248,
+    "cnpj": "20.155.248/0001-39",
+    "companyName": "PARMETAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "name": "PARMETAL DTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 195,
+    "ispb": 7799277,
+    "cnpj": "07.799.277/0001-75",
+    "companyName": "VALOR SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "VALOR SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 196,
+    "ispb": 32648370,
+    "cnpj": "32.648.370/0001-26",
+    "companyName": "FAIR CORRETORA DE CAMBIO S.A.",
+    "name": "FAIR CC S.A.",
+    "url": null
+  },
+  {
+    "code": 197,
+    "ispb": 16501555,
+    "cnpj": "16.501.555/0001-57",
+    "companyName": "STONE INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "STONE IP S.A.",
+    "url": null
+  },
+  {
+    "code": 208,
+    "ispb": 30306294,
+    "cnpj": "30.306.294/0001-45",
+    "companyName": "Banco BTG Pactual S.A.",
+    "name": "BANCO BTG PACTUAL S.A.",
+    "url": "https://www.btgpactual.com"
+  },
+  {
+    "code": 212,
+    "ispb": 92894922,
+    "cnpj": "92.894.922/0001-08",
+    "companyName": "Banco Original S.A.",
+    "name": "BANCO ORIGINAL",
+    "url": "https://www.original.com.br"
+  },
+  {
+    "code": 213,
+    "ispb": 54403563,
+    "cnpj": "54.403.563/0001-50",
+    "companyName": "Banco Arbi S.A.",
+    "name": "BCO ARBI S.A.",
+    "url": "https://www.bancoarbi.com.br"
+  },
+  {
+    "code": 217,
+    "ispb": 91884981,
+    "cnpj": "91.884.981/0001-32",
+    "companyName": "Banco John Deere S.A.",
+    "name": "BANCO JOHN DEERE S.A.",
+    "url": "https://www.johndeere.com.br"
+  },
+  {
+    "code": 218,
+    "ispb": 71027866,
+    "cnpj": "71.027.866/0001-34",
+    "companyName": "Banco BS2 S.A.",
+    "name": "BCO BS2 S.A.",
+    "url": "https://www.bs2.com/banco/"
+  },
+  {
+    "code": 222,
+    "ispb": 75647891,
+    "cnpj": "75.647.891/0001-71",
+    "companyName": "BANCO CRÉDIT AGRICOLE BRASIL S.A.",
+    "name": "BCO CRÉDIT AGRICOLE BR S.A.",
+    "url": "https://www.calyon.com.br"
+  },
+  {
+    "code": 224,
+    "ispb": 58616418,
+    "cnpj": "58.616.418/0001-08",
+    "companyName": "Banco Fibra S.A.",
+    "name": "BCO FIBRA S.A.",
+    "url": "https://www.bancofibra.com.br"
+  },
+  {
+    "code": 233,
+    "ispb": 62421979,
+    "cnpj": "62.421.979/0001-29",
+    "companyName": "Banco Cifra S.A.",
+    "name": "BANCO CIFRA",
+    "url": "https://www.bancocifra.com.br"
+  },
+  {
+    "code": 237,
+    "ispb": 60746948,
+    "cnpj": "60.746.948/0001-12",
+    "companyName": "Banco Bradesco S.A.",
+    "name": "BCO BRADESCO S.A.",
+    "url": "https://www.bradesco.com.br"
+  },
+  {
+    "code": 241,
+    "ispb": 31597552,
+    "cnpj": "31.597.552/0001-52",
+    "companyName": "BANCO CLASSICO S.A.",
+    "name": "BCO CLASSICO S.A.",
+    "url": "https://bancoclassico.com.br"
+  },
+  {
+    "code": 243,
+    "ispb": 33923798,
+    "cnpj": "33.923.798/0001-00",
+    "companyName": "BANCO MASTER S/A",
+    "name": "BANCO MASTER",
+    "url": "https://www.bancomaxima.com.br"
+  },
+  {
+    "code": 246,
+    "ispb": 28195667,
+    "cnpj": "28.195.667/0001-06",
+    "companyName": "Banco ABC Brasil S.A.",
+    "name": "BCO ABC BRASIL S.A.",
+    "url": "https://www.abcbrasil.com.br"
+  },
+  {
+    "code": 249,
+    "ispb": 61182408,
+    "cnpj": "61.182.408/0001-16",
+    "companyName": "Banco Investcred Unibanco S.A.",
+    "name": "BANCO INVESTCRED UNIBANCO S.A.",
+    "url": "https://www.itau.com.br"
+  },
+  {
+    "code": 250,
+    "ispb": 50585090,
+    "cnpj": "50.585.090/0001-06",
+    "companyName": "BCV - BANCO DE CRÉDITO E VAREJO S.A.",
+    "name": "BCV - BCO CRÉDITO E VAREJO S.A.",
+    "url": "https://www.bancobcv.com.br"
+  },
+  {
+    "code": 253,
+    "ispb": 52937216,
+    "cnpj": "52.937.216/0001-81",
+    "companyName": "Bexs Corretora de Câmbio S/A",
+    "name": "BEXS CC S.A.",
+    "url": null
+  },
+  {
+    "code": 254,
+    "ispb": 14388334,
+    "cnpj": "14.388.334/0001-99",
+    "companyName": "PARANÁ BANCO S.A.",
+    "name": "PARANA BCO S.A.",
+    "url": "https://www.paranabanco.com.br"
+  },
+  {
+    "code": 259,
+    "ispb": 8609934,
+    "cnpj": "08.609.934/0001-37",
+    "companyName": "MONEYCORP BANCO DE CÂMBIO S.A.",
+    "name": "MONEYCORP BCO DE CÂMBIO S.A.",
+    "url": null
+  },
+  {
+    "code": 260,
+    "ispb": 18236120,
+    "cnpj": "18.236.120/0001-58",
+    "companyName": "NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "name": "NU PAGAMENTOS - IP",
+    "url": null
+  },
+  {
+    "code": 265,
+    "ispb": 33644196,
+    "cnpj": "33.644.196/0001-06",
+    "companyName": "Banco Fator S.A.",
+    "name": "BCO FATOR S.A.",
+    "url": "https://www.fator.com.br"
+  },
+  {
+    "code": 266,
+    "ispb": 33132044,
+    "cnpj": "33.132.044/0001-24",
+    "companyName": "BANCO CEDULA S.A.",
+    "name": "BCO CEDULA S.A.",
+    "url": "https://www.bancocedula.com.br"
+  },
+  {
+    "code": 268,
+    "ispb": 14511781,
+    "cnpj": "14.511.781/0001-93",
+    "companyName": "BARI COMPANHIA HIPOTECÁRIA",
+    "name": "BARI CIA HIPOTECÁRIA",
+    "url": null
+  },
+  {
+    "code": 269,
+    "ispb": 53518684,
+    "cnpj": "53.518.684/0001-84",
+    "companyName": "BANCO HSBC S.A.",
+    "name": "BCO HSBC S.A.",
+    "url": null
+  },
+  {
+    "code": 270,
+    "ispb": 61444949,
+    "cnpj": "61.444.949/0001-75",
+    "companyName": "SAGITUR CORRETORA DE CÂMBIO S.A.",
+    "name": "SAGITUR CC",
+    "url": null
+  },
+  {
+    "code": 271,
+    "ispb": 27842177,
+    "cnpj": "27.842.177/0001-91",
+    "companyName": "IB Corretora de Câmbio Títulos e Valores Mobiliários S.A.",
+    "name": "IB CCTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 272,
+    "ispb": 250699,
+    "cnpj": "00.250.699/0001-48",
+    "companyName": "AGK CORRETORA DE CAMBIO S.A.",
+    "name": "AGK CC S.A.",
+    "url": null
+  },
+  {
+    "code": 273,
+    "ispb": 8253539,
+    "cnpj": "08.253.539/0001-64",
+    "companyName": "Cooperativa de Crédito Rural de São Miguel do Oeste - Sulcredi/São Miguel",
+    "name": "CCR DE SÃO MIGUEL DO OESTE",
+    "url": null
+  },
+  {
+    "code": 274,
+    "ispb": 11581339,
+    "cnpj": "11.581.339/0001-45",
+    "companyName": "BMP SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.",
+    "name": "BMP SCMEPP LTDA",
+    "url": null
+  },
+  {
+    "code": 276,
+    "ispb": 11970623,
+    "cnpj": "11.970.623/0001-03",
+    "companyName": "BANCO SENFF S.A.",
+    "name": "BCO SENFF S.A.",
+    "url": null
+  },
+  {
+    "code": 278,
+    "ispb": 27652684,
+    "cnpj": "27.652.684/0001-62",
+    "companyName": "Genial Investimentos Corretora de Valores Mobiliários S.A.",
+    "name": "GENIAL INVESTIMENTOS CVM S.A.",
+    "url": null
+  },
+  {
+    "code": 279,
+    "ispb": 26563270,
+    "cnpj": "26.563.270/0001-02",
+    "companyName": "PRIMACREDI COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE",
+    "name": "COOP DE PRIMAVERA DO LESTE",
+    "url": null
+  },
+  {
+    "code": 280,
+    "ispb": 23862762,
+    "cnpj": "23.862.762/0001-00",
+    "companyName": "WILL FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "WILL FINANCEIRA S.A.CFI",
+    "url": null
+  },
+  {
+    "code": 281,
+    "ispb": 76461557,
+    "cnpj": "76.461.557/0001-91",
+    "companyName": "Cooperativa de Crédito Rural Coopavel",
+    "name": "CCR COOPAVEL",
+    "url": null
+  },
+  {
+    "code": 283,
+    "ispb": 89960090,
+    "cnpj": "89.960.090/0001-76",
+    "companyName": "RB INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LIMITADA",
+    "name": "RB INVESTIMENTOS DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 285,
+    "ispb": 71677850,
+    "cnpj": "71.677.850/0001-77",
+    "companyName": "Frente Corretora de Câmbio Ltda.",
+    "name": "FRENTE CC LTDA.",
+    "url": null
+  },
+  {
+    "code": 286,
+    "ispb": 7853842,
+    "cnpj": "07.853.842/0001-35",
+    "companyName": "UNIPRIME OURO - COOPERATIVA DE CRÉDITO DE OURO",
+    "name": "UNIPRIME OURO - COOP DE OURO",
+    "url": null
+  },
+  {
+    "code": 288,
+    "ispb": 62237649,
+    "cnpj": "62.237.649/0001-88",
+    "companyName": "CAROL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+    "name": "CAROL DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 289,
+    "ispb": 94968518,
+    "cnpj": "94.968.518/0001-67",
+    "companyName": "EFX CORRETORA DE CÂMBIO LTDA.",
+    "name": "EFX CC LTDA.",
+    "url": null
+  },
+  {
+    "code": 290,
+    "ispb": 8561701,
+    "cnpj": "08.561.701/0001-01",
+    "companyName": "PAGSEGURO INTERNET INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "PAGSEGURO INTERNET IP S.A.",
+    "url": null
+  },
+  {
+    "code": 292,
+    "ispb": 28650236,
+    "cnpj": "28.650.236/0001-92",
+    "companyName": "BS2 Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "name": "BS2 DTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 293,
+    "ispb": 71590442,
+    "cnpj": "71.590.442/0001-83",
+    "companyName": "Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda.",
+    "name": "LASTRO RDV DTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 296,
+    "ispb": 4062902,
+    "cnpj": "04.062.902/0001-03",
+    "companyName": "OZ CORRETORA DE CÂMBIO S.A.",
+    "name": "OZ CORRETORA DE CÂMBIO S.A.",
+    "url": null
+  },
+  {
+    "code": 298,
+    "ispb": 17772370,
+    "cnpj": "17.772.370/0001-40",
+    "companyName": "Vip's Corretora de Câmbio Ltda.",
+    "name": "VIPS CC LTDA.",
+    "url": null
+  },
+  {
+    "code": 299,
+    "ispb": 4814563,
+    "cnpj": "04.814.563/0001-74",
+    "companyName": "BANCO AFINZ S.A. - BANCO MÚLTIPLO",
+    "name": "BCO AFINZ S.A. - BM",
+    "url": null
+  },
+  {
+    "code": 300,
+    "ispb": 33042151,
+    "cnpj": "33.042.151/0001-61",
+    "companyName": "Banco de la Nacion Argentina",
+    "name": "BCO LA NACION ARGENTINA",
+    "url": "https://www.bna.com.br"
+  },
+  {
+    "code": 301,
+    "ispb": 13370835,
+    "cnpj": "13.370.835/0001-85",
+    "companyName": "DOCK INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "DOCK IP S.A.",
+    "url": null
+  },
+  {
+    "code": 306,
+    "ispb": 40303299,
+    "cnpj": "40.303.299/0001-78",
+    "companyName": "PORTOPAR DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+    "name": "PORTOPAR DTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 307,
+    "ispb": 3751794,
+    "cnpj": "03.751.794/0001-13",
+    "companyName": "Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.",
+    "name": "TERRA INVESTIMENTOS DTVM",
+    "url": null
+  },
+  {
+    "code": 309,
+    "ispb": 14190547,
+    "cnpj": "14.190.547/0001-01",
+    "companyName": "CAMBIONET CORRETORA DE CÂMBIO LTDA.",
+    "name": "CAMBIONET CC LTDA",
+    "url": null
+  },
+  {
+    "code": 310,
+    "ispb": 22610500,
+    "cnpj": "22.610.500/0001-88",
+    "companyName": "VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+    "name": "VORTX DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 311,
+    "ispb": 76641497,
+    "cnpj": "76.641.497/0001-99",
+    "companyName": "DOURADA CORRETORA DE CÂMBIO LTDA.",
+    "name": "DOURADA CORRETORA",
+    "url": null
+  },
+  {
+    "code": 312,
+    "ispb": 7693858,
+    "cnpj": "07.693.858/0001-28",
+    "companyName": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LT",
+    "name": "HSCM SCMEPP LTDA.",
+    "url": null
+  },
+  {
+    "code": 313,
+    "ispb": 16927221,
+    "cnpj": "16.927.221/0001-40",
+    "companyName": "AMAZÔNIA CORRETORA DE CÂMBIO LTDA.",
+    "name": "AMAZÔNIA CC LTDA.",
+    "url": null
+  },
+  {
+    "code": 315,
+    "ispb": 3502968,
+    "cnpj": "03.502.968/0001-04",
+    "companyName": "PI Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "name": "PI DTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 318,
+    "ispb": 61186680,
+    "cnpj": "61.186.680/0001-74",
+    "companyName": "Banco BMG S.A.",
+    "name": "BCO BMG S.A.",
+    "url": "https://www.bancobmg.com.br"
+  },
+  {
+    "code": 319,
+    "ispb": 11495073,
+    "cnpj": "11.495.073/0001-18",
+    "companyName": "OM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "name": "OM DTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 320,
+    "ispb": 7450604,
+    "cnpj": "07.450.604/0001-89",
+    "companyName": "China Construction Bank (Brasil) Banco Múltiplo S/A",
+    "name": "BCO CCB BRASIL S.A.",
+    "url": "https://www.br.ccb.com"
+  },
+  {
+    "code": 321,
+    "ispb": 18188384,
+    "cnpj": "18.188.384/0001-83",
+    "companyName": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LT",
+    "name": "CREFAZ SCMEPP LTDA",
+    "url": null
+  },
+  {
+    "code": 322,
+    "ispb": 1073966,
+    "cnpj": "01.073.966/0001-11",
+    "companyName": "Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi/Crediluz",
+    "name": "CCR DE ABELARDO LUZ",
+    "url": null
+  },
+  {
+    "code": 323,
+    "ispb": 10573521,
+    "cnpj": "10.573.521/0001-91",
+    "companyName": "MERCADO PAGO INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "name": "MERCADO PAGO IP LTDA.",
+    "url": null
+  },
+  {
+    "code": 324,
+    "ispb": 21332862,
+    "cnpj": "21.332.862/0001-91",
+    "companyName": "CARTOS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "CARTOS SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 325,
+    "ispb": 13293225,
+    "cnpj": "13.293.225/0001-25",
+    "companyName": "Órama Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "name": "ÓRAMA DTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 326,
+    "ispb": 3311443,
+    "cnpj": "03.311.443/0001-91",
+    "companyName": "PARATI - CREDITO FINANCIAMENTO E INVESTIMENTO S.A.",
+    "name": "PARATI - CFI S.A.",
+    "url": null
+  },
+  {
+    "code": 328,
+    "ispb": 5841967,
+    "cnpj": "05.841.967/0001-10",
+    "companyName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA",
+    "name": "CECM FABRIC CALÇADOS SAPIRANGA",
+    "url": null
+  },
+  {
+    "code": 329,
+    "ispb": 32402502,
+    "cnpj": "32.402.502/0001-35",
+    "companyName": "QI Sociedade de Crédito Direto S.A.",
+    "name": "QI SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 330,
+    "ispb": 556603,
+    "cnpj": "00.556.603/0001-74",
+    "companyName": "BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A.",
+    "name": "BANCO BARI S.A.",
+    "url": null
+  },
+  {
+    "code": 331,
+    "ispb": 13673855,
+    "cnpj": "13.673.855/0001-25",
+    "companyName": "Fram Capital Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "name": "FRAM CAPITAL DTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 332,
+    "ispb": 13140088,
+    "cnpj": "13.140.088/0001-99",
+    "companyName": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "name": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "url": null
+  },
+  {
+    "code": 335,
+    "ispb": 27098060,
+    "cnpj": "27.098.060/0001-45",
+    "companyName": "Banco Digio S.A.",
+    "name": "BANCO DIGIO",
+    "url": "https://www.digio.com.br"
+  },
+  {
+    "code": 336,
+    "ispb": 31872495,
+    "cnpj": "31.872.495/0001-72",
+    "companyName": "Banco C6 S.A.",
+    "name": "BCO C6 S.A.",
+    "url": "https://www.c6bank.com"
+  },
+  {
+    "code": 340,
+    "ispb": 9554480,
+    "cnpj": "09.554.480/0001-07",
+    "companyName": "SUPERDIGITAL INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "SUPERDIGITAL I.P. S.A.",
+    "url": null
+  },
+  {
+    "code": 341,
+    "ispb": 60701190,
+    "cnpj": "60.701.190/0001-04",
+    "companyName": "ITAÚ UNIBANCO S.A.",
+    "name": "ITAÚ UNIBANCO S.A.",
+    "url": "https://www.itau.com.br"
+  },
+  {
+    "code": 342,
+    "ispb": 32997490,
+    "cnpj": "32.997.490/0001-39",
+    "companyName": "Creditas Sociedade de Crédito Direto S.A.",
+    "name": "CREDITAS SCD",
+    "url": null
+  },
+  {
+    "code": 343,
+    "ispb": 24537861,
+    "cnpj": "24.537.861/0001-71",
+    "companyName": "FFA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
+    "name": "FFA SCMEPP LTDA.",
+    "url": null
+  },
+  {
+    "code": 348,
+    "ispb": 33264668,
+    "cnpj": "33.264.668/0001-03",
+    "companyName": "Banco XP S.A.",
+    "name": "BCO XP S.A.",
+    "url": null
+  },
+  {
+    "code": 349,
+    "ispb": 27214112,
+    "cnpj": "27.214.112/0001-00",
+    "companyName": "AL5 S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "AL5 S.A. CFI",
+    "url": null
+  },
+  {
+    "code": 350,
+    "ispb": 1330387,
+    "cnpj": "01.330.387/0001-07",
+    "companyName": "COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE",
+    "name": "CREHNOR LARANJEIRAS",
+    "url": null
+  },
+  {
+    "code": 352,
+    "ispb": 29162769,
+    "cnpj": "29.162.769/0001-98",
+    "companyName": "TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "TORO CTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 354,
+    "ispb": 52904364,
+    "cnpj": "52.904.364/0001-08",
+    "companyName": "NECTON INVESTIMENTOS  S.A. CORRETORA DE VALORES MOBILIÁRIOS E COMMODITIES",
+    "name": "NECTON INVESTIMENTOS S.A CVM",
+    "url": null
+  },
+  {
+    "code": 355,
+    "ispb": 34335592,
+    "cnpj": "34.335.592/0001-14",
+    "companyName": "ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "ÓTIMO SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 358,
+    "ispb": 9464032,
+    "cnpj": "09.464.032/0001-12",
+    "companyName": "MIDWAY S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "MIDWAY S.A. - SCFI",
+    "url": null
+  },
+  {
+    "code": 359,
+    "ispb": 5351887,
+    "cnpj": "05.351.887/0001-86",
+    "companyName": "ZEMA CRÉDITO FINANCIAMENTO E INVESTIMENTO S/A",
+    "name": "ZEMA CFI S/A",
+    "url": null
+  },
+  {
+    "code": 360,
+    "ispb": 2276653,
+    "cnpj": "02.276.653/0001-23",
+    "companyName": "TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "TRINUS CAPITAL DTVM",
+    "url": null
+  },
+  {
+    "code": 362,
+    "ispb": 1027058,
+    "cnpj": "01.027.058/0001-91",
+    "companyName": "CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "name": "CIELO IP S.A.",
+    "url": null
+  },
+  {
+    "code": 363,
+    "ispb": 62285390,
+    "cnpj": "62.285.390/0001-40",
+    "companyName": "SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "SINGULARE CTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 364,
+    "ispb": 9089356,
+    "cnpj": "09.089.356/0001-18",
+    "companyName": "GERENCIANET S.A- INSTITUIÇÃO DE PAGAMENTO",
+    "name": "GERENCIANET IP",
+    "url": null
+  },
+  {
+    "code": 365,
+    "ispb": 68757681,
+    "cnpj": "68.757.681/0001-70",
+    "companyName": "SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A.",
+    "name": "SIMPAUL",
+    "url": null
+  },
+  {
+    "code": 366,
+    "ispb": 61533584,
+    "cnpj": "61.533.584/0001-55",
+    "companyName": "BANCO SOCIETE GENERALE BRASIL S.A.",
+    "name": "BCO SOCIETE GENERALE BRASIL",
+    "url": "https://www.sgbrasil.com.br"
+  },
+  {
+    "code": 367,
+    "ispb": 34711571,
+    "cnpj": "34.711.571/0001-56",
+    "companyName": "VITREO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "VITREO DTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 368,
+    "ispb": 8357240,
+    "cnpj": "08.357.240/0001-50",
+    "companyName": "Banco CSF S.A.",
+    "name": "BCO CSF S.A.",
+    "url": "https://www.carrefoursolucoes.com.br"
+  },
+  {
+    "code": 370,
+    "ispb": 61088183,
+    "cnpj": "61.088.183/0001-33",
+    "companyName": "Banco Mizuho do Brasil S.A.",
+    "name": "BCO MIZUHO S.A.",
+    "url": "https://www.mizuhobank.com/brazil/pt/"
+  },
+  {
+    "code": 371,
+    "ispb": 92875780,
+    "cnpj": "92.875.780/0001-31",
+    "companyName": "WARREN CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO LTDA.",
+    "name": "WARREN CVMC LTDA",
+    "url": null
+  },
+  {
+    "code": 373,
+    "ispb": 35977097,
+    "cnpj": "35.977.097/0001-71",
+    "companyName": "UP.P SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.",
+    "name": "UP.P SEP S.A.",
+    "url": null
+  },
+  {
+    "code": 374,
+    "ispb": 27351731,
+    "cnpj": "27.351.731/0001-38",
+    "companyName": "REALIZE CRÉDITO FINANCIAMENTO E INVESTIMENTO S.A.",
+    "name": "REALIZE CFI S.A.",
+    "url": null
+  },
+  {
+    "code": 376,
+    "ispb": 33172537,
+    "cnpj": "33.172.537/0001-98",
+    "companyName": "BANCO J.P. MORGAN S.A.",
+    "name": "BCO J.P. MORGAN S.A.",
+    "url": "https://www.jpmorgan.com"
+  },
+  {
+    "code": 377,
+    "ispb": 17826860,
+    "cnpj": "17.826.860/0001-81",
+    "companyName": "BMS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "BMS SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 378,
+    "ispb": 1852137,
+    "cnpj": "01.852.137/0001-37",
+    "companyName": "BANCO BRASILEIRO DE CRÉDITO SOCIEDADE ANÔNIMA",
+    "name": "BCO BRASILEIRO DE CRÉDITO S.A.",
+    "url": null
+  },
+  {
+    "code": 379,
+    "ispb": 1658426,
+    "cnpj": "01.658.426/0001-08",
+    "companyName": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITU",
+    "name": "CECM COOPERFORTE",
+    "url": null
+  },
+  {
+    "code": 380,
+    "ispb": 22896431,
+    "cnpj": "22.896.431/0001-10",
+    "companyName": "PICPAY INSTITUIçãO DE PAGAMENTO S.A.",
+    "name": "PICPAY",
+    "url": "https://www.picpay.com.br"
+  },
+  {
+    "code": 381,
+    "ispb": 60814191,
+    "cnpj": "60.814.191/0001-57",
+    "companyName": "BANCO MERCEDES-BENZ DO BRASIL S.A.",
+    "name": "BCO MERCEDES-BENZ S.A.",
+    "url": "https://www.bancomercedesbenz.com.br"
+  },
+  {
+    "code": 382,
+    "ispb": 4307598,
+    "cnpj": "04.307.598/0001-17",
+    "companyName": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L",
+    "name": "FIDUCIA SCMEPP LTDA",
+    "url": null
+  },
+  {
+    "code": 383,
+    "ispb": 21018182,
+    "cnpj": "21.018.182/0001-06",
+    "companyName": "EBANX INSTITUICAO DE PAGAMENTOS LTDA.",
+    "name": "EBANX IP LTDA.",
+    "url": null
+  },
+  {
+    "code": 384,
+    "ispb": 11165756,
+    "cnpj": "11.165.756/0001-07",
+    "companyName": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO",
+    "name": "GLOBAL SCM LTDA",
+    "url": null
+  },
+  {
+    "code": 385,
+    "ispb": 3844699,
+    "cnpj": "03.844.699/0001-64",
+    "companyName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V",
+    "name": "CECM DOS TRAB.PORT. DA G.VITOR",
+    "url": null
+  },
+  {
+    "code": 386,
+    "ispb": 30680829,
+    "cnpj": "30.680.829/0001-43",
+    "companyName": "NU FINANCEIRA S.A. - Sociedade de Crédito Financiamento e Investimento",
+    "name": "NU FINANCEIRA S.A. CFI",
+    "url": null
+  },
+  {
+    "code": 387,
+    "ispb": 3215790,
+    "cnpj": "03.215.790/0001-10",
+    "companyName": "Banco Toyota do Brasil S.A.",
+    "name": "BCO TOYOTA DO BRASIL S.A.",
+    "url": "https://www.bancotoyota.com.br"
+  },
+  {
+    "code": 389,
+    "ispb": 17184037,
+    "cnpj": "17.184.037/0001-10",
+    "companyName": "Banco Mercantil do Brasil S.A.",
+    "name": "BCO MERCANTIL DO BRASIL S.A.",
+    "url": "https://www.mercantil.com.br"
+  },
+  {
+    "code": 390,
+    "ispb": 59274605,
+    "cnpj": "59.274.605/0001-13",
+    "companyName": "BANCO GM S.A.",
+    "name": "BCO GM S.A.",
+    "url": null
+  },
+  {
+    "code": 391,
+    "ispb": 8240446,
+    "cnpj": "08.240.446/0001-03",
+    "companyName": "COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM",
+    "name": "CCR DE IBIAM",
+    "url": null
+  },
+  {
+    "code": 393,
+    "ispb": 59109165,
+    "cnpj": "59.109.165/0001-49",
+    "companyName": "Banco Volkswagen S.A.",
+    "name": "BCO VOLKSWAGEN S.A",
+    "url": "https://www.bancovw.com.br"
+  },
+  {
+    "code": 394,
+    "ispb": 7207996,
+    "cnpj": "07.207.996/0001-50",
+    "companyName": "Banco Bradesco Financiamentos S.A.",
+    "name": "BCO BRADESCO FINANC. S.A.",
+    "url": "https://www.bradescofinanciamentos.com.br"
+  },
+  {
+    "code": 395,
+    "ispb": 8673569,
+    "cnpj": "08.673.569/0001-20",
+    "companyName": "F.D'GOLD - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "F D GOLD DTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 396,
+    "ispb": 13884775,
+    "cnpj": "13.884.775/0001-19",
+    "companyName": "HUB INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "HUB IP S.A.",
+    "url": null
+  },
+  {
+    "code": 397,
+    "ispb": 34088029,
+    "cnpj": "34.088.029/0001-99",
+    "companyName": "LISTO SOCIEDADE DE CREDITO DIRETO S.A.",
+    "name": "LISTO SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 398,
+    "ispb": 31749596,
+    "cnpj": "31.749.596/0001-50",
+    "companyName": "IDEAL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "IDEAL CTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 399,
+    "ispb": 1701201,
+    "cnpj": "01.701.201/0001-89",
+    "companyName": "Kirton Bank S.A. - Banco Múltiplo",
+    "name": "KIRTON BANK",
+    "url": "https://true"
+  },
+  {
+    "code": 400,
+    "ispb": 5491616,
+    "cnpj": "05.491.616/0001-26",
+    "companyName": "COOPERATIVA DE CRÉDITO POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT",
+    "name": "COOP CREDITAG",
+    "url": null
+  },
+  {
+    "code": 401,
+    "ispb": 15111975,
+    "cnpj": "15.111.975/0001-64",
+    "companyName": "IUGU INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "IUGU IP S.A.",
+    "url": null
+  },
+  {
+    "code": 402,
+    "ispb": 36947229,
+    "cnpj": "36.947.229/0001-85",
+    "companyName": "COBUCCIO S/A - SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTOS",
+    "name": "COBUCCIO S.A. SCFI",
+    "url": null
+  },
+  {
+    "code": 403,
+    "ispb": 37880206,
+    "cnpj": "37.880.206/0001-63",
+    "companyName": "CORA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "CORA SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 404,
+    "ispb": 37241230,
+    "cnpj": "37.241.230/0001-52",
+    "companyName": "SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "SUMUP SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 406,
+    "ispb": 37715993,
+    "cnpj": "37.715.993/0001-98",
+    "companyName": "ACCREDITO - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "ACCREDITO SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 407,
+    "ispb": 329598,
+    "cnpj": "00.329.598/0001-67",
+    "companyName": "ÍNDIGO INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "ÍNDIGO INVESTIMENTOS DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 408,
+    "ispb": 36586946,
+    "cnpj": "36.586.946/0001-29",
+    "companyName": "BONUSPAGO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "BONUSPAGO SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 410,
+    "ispb": 5684234,
+    "cnpj": "05.684.234/0001-19",
+    "companyName": "PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "PLANNER SOCIEDADE DE CRÉDITO DIRETO",
+    "url": null
+  },
+  {
+    "code": 411,
+    "ispb": 5192316,
+    "cnpj": "05.192.316/0001-46",
+    "companyName": "Via Certa Financiadora S.A. - Crédito Financiamento e Investimentos",
+    "name": "VIA CERTA FINANCIADORA S.A. - CFI",
+    "url": null
+  },
+  {
+    "code": 412,
+    "ispb": 15173776,
+    "cnpj": "15.173.776/0001-80",
+    "companyName": "SOCIAL BANK BANCO MÚLTIPLO S/A",
+    "name": "SOCIAL BANK S/A",
+    "url": "https://www.bancocapital.com.br"
+  },
+  {
+    "code": 413,
+    "ispb": 1858774,
+    "cnpj": "01.858.774/0001-10",
+    "companyName": "BANCO BV S.A.",
+    "name": "BCO BV S.A.",
+    "url": null
+  },
+  {
+    "code": 414,
+    "ispb": 37526080,
+    "cnpj": "37.526.080/0001-23",
+    "companyName": "LEND SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "LEND SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 416,
+    "ispb": 19324634,
+    "cnpj": "19.324.634/0001-28",
+    "companyName": "LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "LAMARA SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 418,
+    "ispb": 37414009,
+    "cnpj": "37.414.009/0001-59",
+    "companyName": "ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "name": "ZIPDIN SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 419,
+    "ispb": 38129006,
+    "cnpj": "38.129.006/0001-36",
+    "companyName": "NUMBRS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "NUMBRS SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 421,
+    "ispb": 39343350,
+    "cnpj": "39.343.350/0001-96",
+    "companyName": "LAR COOPERATIVA DE CRÉDITO - LAR CREDI",
+    "name": "CC LAR CREDI",
+    "url": null
+  },
+  {
+    "code": 422,
+    "ispb": 58160789,
+    "cnpj": "58.160.789/0001-28",
+    "companyName": "Banco Safra S.A.",
+    "name": "BCO SAFRA S.A.",
+    "url": "https://www.safra.com.br"
+  },
+  {
+    "code": 423,
+    "ispb": 460065,
+    "cnpj": "00.460.065/0001-10",
+    "companyName": "COLUNA S/A DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS",
+    "name": "COLUNA S.A. DTVM",
+    "url": null
+  },
+  {
+    "code": 425,
+    "ispb": 3881423,
+    "cnpj": "03.881.423/0001-56",
+    "companyName": "SOCINAL S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "SOCINAL S.A. CFI",
+    "url": null
+  },
+  {
+    "code": 426,
+    "ispb": 11285104,
+    "cnpj": "11.285.104/0001-06",
+    "companyName": "Biorc Financeira - Crédito Financiamento e Investimento S.A.",
+    "name": "BIORC FINANCEIRA - CFI S.A.",
+    "url": null
+  },
+  {
+    "code": 427,
+    "ispb": 27302181,
+    "cnpj": "27.302.181/0001-67",
+    "companyName": "COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "name": "CRED-UFES",
+    "url": null
+  },
+  {
+    "code": 428,
+    "ispb": 39664698,
+    "cnpj": "39.664.698/0001-85",
+    "companyName": "CREDSYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "CREDSYSTEM SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 429,
+    "ispb": 5676026,
+    "cnpj": "05.676.026/0001-78",
+    "companyName": "Crediare S.A. - Crédito financiamento e investimento",
+    "name": "CREDIARE CFI S.A.",
+    "url": null
+  },
+  {
+    "code": 430,
+    "ispb": 204963,
+    "cnpj": "00.204.963/0001-07",
+    "companyName": "COOPERATIVA DE CREDITO RURAL SEARA - CREDISEARA",
+    "name": "CCR SEARA",
+    "url": null
+  },
+  {
+    "code": 433,
+    "ispb": 44077014,
+    "cnpj": "44.077.014/0001-89",
+    "companyName": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "BR-CAPITAL DTVM S.A.",
+    "url": null
+  },
+  {
+    "code": 435,
+    "ispb": 38224857,
+    "cnpj": "38.224.857/0001-68",
+    "companyName": "DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "DELCRED SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 438,
+    "ispb": 67030395,
+    "cnpj": "67.030.395/0001-46",
+    "companyName": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "TRUSTEE DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 439,
+    "ispb": 16695922,
+    "cnpj": "16.695.922/0001-09",
+    "companyName": "ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "ID CTVM",
+    "url": null
+  },
+  {
+    "code": 440,
+    "ispb": 82096447,
+    "cnpj": "82.096.447/0001-70",
+    "companyName": "CREDIBRF - COOPERATIVA DE CRÉDITO",
+    "name": "CREDIBRF COOP",
+    "url": null
+  },
+  {
+    "code": 442,
+    "ispb": 87963450,
+    "cnpj": "87.963.450/0001-68",
+    "companyName": "MAGNETIS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "name": "MAGNETIS - DTVM",
+    "url": null
+  },
+  {
+    "code": 443,
+    "ispb": 39416705,
+    "cnpj": "39.416.705/0001-20",
+    "companyName": "CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "CREDIHOME SCD",
+    "url": null
+  },
+  {
+    "code": 444,
+    "ispb": 40654622,
+    "cnpj": "40.654.622/0001-58",
+    "companyName": "TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "TRINUS SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 445,
+    "ispb": 35551187,
+    "cnpj": "35.551.187/0001-04",
+    "companyName": "PLANTAE S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "PLANTAE CFI",
+    "url": null
+  },
+  {
+    "code": 447,
+    "ispb": 12392983,
+    "cnpj": "12.392.983/0001-38",
+    "companyName": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO TÍTULOS E VALORES MO",
+    "name": "MIRAE ASSET CCTVM LTDA",
+    "url": null
+  },
+  {
+    "code": 448,
+    "ispb": 39669186,
+    "cnpj": "39.669.186/0001-01",
+    "companyName": "HEMERA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "HEMERA DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 449,
+    "ispb": 37555231,
+    "cnpj": "37.555.231/0001-71",
+    "companyName": "DM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "DM",
+    "url": null
+  },
+  {
+    "code": 450,
+    "ispb": 13203354,
+    "cnpj": "13.203.354/0001-85",
+    "companyName": "FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.",
+    "name": "FITBANK IP",
+    "url": null
+  },
+  {
+    "code": 451,
+    "ispb": 40475846,
+    "cnpj": "40.475.846/0001-00",
+    "companyName": "J17 - SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "name": "J17 - SCD S/A",
+    "url": null
+  },
+  {
+    "code": 452,
+    "ispb": 39676772,
+    "cnpj": "39.676.772/0001-83",
+    "companyName": "CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "CREDIFIT SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 454,
+    "ispb": 41592532,
+    "cnpj": "41.592.532/0001-42",
+    "companyName": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "MÉRITO DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 455,
+    "ispb": 38429045,
+    "cnpj": "38.429.045/0001-59",
+    "companyName": "FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "FÊNIX DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 456,
+    "ispb": 60498557,
+    "cnpj": "60.498.557/0001-26",
+    "companyName": "Banco MUFG Brasil S.A.",
+    "name": "BCO MUFG BRASIL S.A.",
+    "url": "https://www.br.bk.mufg.jp"
+  },
+  {
+    "code": 457,
+    "ispb": 39587424,
+    "cnpj": "39.587.424/0001-30",
+    "companyName": "UY3 SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "name": "UY3 SCD S/A",
+    "url": null
+  },
+  {
+    "code": 458,
+    "ispb": 7253654,
+    "cnpj": "07.253.654/0001-76",
+    "companyName": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "HEDGE INVESTMENTS DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 459,
+    "ispb": 4546162,
+    "cnpj": "04.546.162/0001-80",
+    "companyName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE",
+    "name": "CCM SERV. PÚBLICOS SP",
+    "url": null
+  },
+  {
+    "code": 460,
+    "ispb": 42047025,
+    "cnpj": "42.047.025/0001-90",
+    "companyName": "UNAVANTI SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "name": "UNAVANTI SCD S/A",
+    "url": null
+  },
+  {
+    "code": 461,
+    "ispb": 19540550,
+    "cnpj": "19.540.550/0001-21",
+    "companyName": "ASAAS GESTÃO FINANCEIRA INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "ASAAS IP S.A.",
+    "url": null
+  },
+  {
+    "code": 462,
+    "ispb": 39908427,
+    "cnpj": "39.908.427/0001-28",
+    "companyName": "STARK SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "STARK SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 463,
+    "ispb": 40434681,
+    "cnpj": "40.434.681/0001-10",
+    "companyName": "AZUMI DISTRIBUIDORA DE TíTULOS E VALORES MOBILIáRIOS LTDA.",
+    "name": "AZUMI DTVM",
+    "url": null
+  },
+  {
+    "code": 464,
+    "ispb": 60518222,
+    "cnpj": "60.518.222/0001-22",
+    "companyName": "Banco Sumitomo Mitsui Brasileiro S.A.",
+    "name": "BCO SUMITOMO MITSUI BRASIL S.A.",
+    "url": "https://www.smbcgroup.com.br"
+  },
+  {
+    "code": 465,
+    "ispb": 40083667,
+    "cnpj": "40.083.667/0001-10",
+    "companyName": "CAPITAL CONSIG SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "CAPITAL CONSIG SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 467,
+    "ispb": 33886862,
+    "cnpj": "33.886.862/0001-12",
+    "companyName": "MASTER S/A CORRETORA DE CâMBIO TíTULOS E VALORES MOBILIáRIOS",
+    "name": "MASTER S/A CCTVM",
+    "url": null
+  },
+  {
+    "code": 468,
+    "ispb": 4862600,
+    "cnpj": "04.862.600/0001-10",
+    "companyName": "PORTOSEG S.A. - CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "PORTOSEG S.A. CFI",
+    "url": null
+  },
+  {
+    "code": 469,
+    "ispb": 7138049,
+    "cnpj": "07.138.049/0001-54",
+    "companyName": "LIGA INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "name": "LIGA INVEST DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 470,
+    "ispb": 18394228,
+    "cnpj": "18.394.228/0001-79",
+    "companyName": "CDC SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESADE PEQUENO PORTE LTDA.",
+    "name": "CDC SOCIEDADE DE CRÉDITO",
+    "url": null
+  },
+  {
+    "code": 471,
+    "ispb": 4831810,
+    "cnpj": "04.831.810/0001-40",
+    "companyName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES",
+    "name": "CECM SERV PUBL PINHÃO",
+    "url": null
+  },
+  {
+    "code": 473,
+    "ispb": 33466988,
+    "cnpj": "33.466.988/0001-38",
+    "companyName": "Banco Caixa Geral - Brasil S.A.",
+    "name": "BCO CAIXA GERAL BRASIL S.A.",
+    "url": "https://www.bcgbrasil.com.br"
+  },
+  {
+    "code": 475,
+    "ispb": 10371492,
+    "cnpj": "10.371.492/0001-85",
+    "companyName": "Banco Yamaha Motor do Brasil S.A.",
+    "name": "BCO YAMAHA MOTOR S.A.",
+    "url": null
+  },
+  {
+    "code": 477,
+    "ispb": 33042953,
+    "cnpj": "33.042.953/0001-71",
+    "companyName": "Citibank N.A.",
+    "name": "CITIBANK N.A.",
+    "url": "https://www.citibank.com"
+  },
+  {
+    "code": 478,
+    "ispb": 11760553,
+    "cnpj": "11.760.553/0001-69",
+    "companyName": "GAZINCRED S.A. SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "GAZINCRED S.A. SCFI",
+    "url": null
+  },
+  {
+    "code": 479,
+    "ispb": 60394079,
+    "cnpj": "60.394.079/0001-04",
+    "companyName": "Banco ItauBank S.A.",
+    "name": "BCO ITAUBANK S.A.",
+    "url": "https://www.itaubank.com.br"
+  },
+  {
+    "code": 481,
+    "ispb": 43599047,
+    "cnpj": "43.599.047/0001-26",
+    "companyName": "SUPERLÓGICA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "SUPERLÓGICA SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 482,
+    "ispb": 42259084,
+    "cnpj": "42.259.084/0001-22",
+    "companyName": "SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "SBCASH SCD",
+    "url": null
+  },
+  {
+    "code": 484,
+    "ispb": 36864992,
+    "cnpj": "36.864.992/0001-42",
+    "companyName": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "name": "MAF DTVM SA",
+    "url": null
+  },
+  {
+    "code": 487,
+    "ispb": 62331228,
+    "cnpj": "62.331.228/0001-11",
+    "companyName": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
+    "name": "DEUTSCHE BANK S.A.BCO ALEMAO",
+    "url": "https://www.deutsche-bank.com.br"
+  },
+  {
+    "code": 488,
+    "ispb": 46518205,
+    "cnpj": "46.518.205/0001-64",
+    "companyName": "JPMorgan Chase Bank National Association",
+    "name": "JPMORGAN CHASE BANK",
+    "url": "https://www.jpmorganchase.com"
+  },
+  {
+    "code": 492,
+    "ispb": 49336860,
+    "cnpj": "49.336.860/0001-90",
+    "companyName": "ING Bank N.V.",
+    "name": "ING BANK N.V.",
+    "url": "https://www.ing.com"
+  },
+  {
+    "code": 495,
+    "ispb": 44189447,
+    "cnpj": "44.189.447/0001-26",
+    "companyName": "Banco de La Provincia de Buenos Aires",
+    "name": "BCO LA PROVINCIA B AIRES BCE",
+    "url": null
+  },
+  {
+    "code": 505,
+    "ispb": 32062580,
+    "cnpj": "32.062.580/0001-38",
+    "companyName": "Banco Credit Suisse (Brasil) S.A.",
+    "name": "BCO CREDIT SUISSE S.A.",
+    "url": "https://www.csfb.com"
+  },
+  {
+    "code": 506,
+    "ispb": 42066258,
+    "cnpj": "42.066.258/0001-30",
+    "companyName": "RJI CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+    "name": "RJI",
+    "url": null
+  },
+  {
+    "code": 507,
+    "ispb": 37229413,
+    "cnpj": "37.229.413/0001-52",
+    "companyName": "GERENCIANET S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "GERENCIANET CFI",
+    "url": null
+  },
+  {
+    "code": 508,
+    "ispb": 61384004,
+    "cnpj": "61.384.004/0001-05",
+    "companyName": "AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "AVENUE SECURITIES DTVM LTDA.",
+    "url": null
+  },
+  {
+    "code": 510,
+    "ispb": 39738065,
+    "cnpj": "39.738.065/0001-74",
+    "companyName": "FFCRED SOCIEDADE DE CRÉDITO DIRETO S.A..",
+    "name": "FFCRED SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 511,
+    "ispb": 44683140,
+    "cnpj": "44.683.140/0001-87",
+    "companyName": "MAGNUM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "MAGNUM SCD",
+    "url": null
+  },
+  {
+    "code": 512,
+    "ispb": 36266751,
+    "cnpj": "36.266.751/0001-00",
+    "companyName": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "FINVEST DTVM",
+    "url": null
+  },
+  {
+    "code": 513,
+    "ispb": 44728700,
+    "cnpj": "44.728.700/0001-72",
+    "companyName": "ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "name": "ATF CREDIT SCD S.A.",
+    "url": null
+  },
+  {
+    "code": 516,
+    "ispb": 36583700,
+    "cnpj": "36.583.700/0001-01",
+    "companyName": "FC FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "name": "FC FINANCEIRA S.A. - CFI",
+    "url": null
+  },
+  {
+    "code": 519,
+    "ispb": 40768766,
+    "cnpj": "40.768.766/0001-35",
+    "companyName": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "name": "LIONS TRUST DTVM",
+    "url": null
+  },
+  {
+    "code": 525,
+    "ispb": 34265629,
+    "cnpj": "34.265.629/0001-85",
+    "companyName": "INTERCAM CORRETORA DE CÂMBIO LTDA.",
+    "name": "INTERCAM CC LTDA",
+    "url": null
+  },
+  {
+    "code": 529,
+    "ispb": 17079937,
+    "cnpj": "17.079.937/0001-05",
+    "companyName": "PINBANK BRASIL INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "name": "PINBANK IP",
+    "url": null
+  },
+  {
+    "code": 545,
+    "ispb": 17352220,
+    "cnpj": "17.352.220/0001-87",
+    "companyName": "SENSO CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A",
+    "name": "SENSO CCVM S.A.",
+    "url": null
+  },
+  {
+    "code": 600,
+    "ispb": 59118133,
+    "cnpj": "59.118.133/0001-00",
+    "companyName": "Banco Luso Brasileiro S.A.",
+    "name": "BCO LUSO BRASILEIRO S.A.",
+    "url": "https://www.lusobrasileiro.com.br"
+  },
+  {
+    "code": 604,
+    "ispb": 31895683,
+    "cnpj": "31.895.683/0001-16",
+    "companyName": "Banco Industrial do Brasil S.A.",
+    "name": "BCO INDUSTRIAL DO BRASIL S.A.",
+    "url": "https://www.bancoindustrial.com.br"
+  },
+  {
+    "code": 610,
+    "ispb": 78626983,
+    "cnpj": "78.626.983/0001-63",
+    "companyName": "Banco VR S.A.",
+    "name": "BCO VR S.A.",
+    "url": "https://www.vrinvestimentos.com.br"
+  },
+  {
+    "code": 611,
+    "ispb": 61820817,
+    "cnpj": "61.820.817/0001-09",
+    "companyName": "Banco Paulista S.A.",
+    "name": "BCO PAULISTA S.A.",
+    "url": "https://www.bancopaulista.com.br"
+  },
+  {
+    "code": 612,
+    "ispb": 31880826,
+    "cnpj": "31.880.826/0001-16",
+    "companyName": "Banco Guanabara S.A.",
+    "name": "BCO GUANABARA S.A.",
+    "url": "https://www.bancoguanabara.com.br"
+  },
+  {
+    "code": 613,
+    "ispb": 60850229,
+    "cnpj": "60.850.229/0001-47",
+    "companyName": "Omni Banco S.A.",
+    "name": "OMNI BANCO S.A.",
+    "url": "https://www.bancopecunia.com.br"
+  },
+  {
+    "code": 623,
+    "ispb": 59285411,
+    "cnpj": "59.285.411/0001-13",
+    "companyName": "Banco Pan S.A.",
+    "name": "BANCO PAN",
+    "url": "https://www.bancopan.com.br"
+  },
+  {
+    "code": 626,
+    "ispb": 61348538,
+    "cnpj": "61.348.538/0001-86",
+    "companyName": "BANCO C6 CONSIGNADO S.A.",
+    "name": "BCO C6 CONSIG",
+    "url": null
+  },
+  {
+    "code": 630,
+    "ispb": 58497702,
+    "cnpj": "58.497.702/0001-02",
+    "companyName": "BANCO LETSBANK S.A.",
+    "name": "BCO LETSBANK S.A.",
+    "url": "https://www.intercap.com.br"
+  },
+  {
+    "code": 633,
+    "ispb": 68900810,
+    "cnpj": "68.900.810/0001-38",
+    "companyName": "Banco Rendimento S.A.",
+    "name": "BCO RENDIMENTO S.A.",
+    "url": "https://www.rendimento.com.br"
+  },
+  {
+    "code": 634,
+    "ispb": 17351180,
+    "cnpj": "17.351.180/0001-59",
+    "companyName": "BANCO TRIANGULO S.A.",
+    "name": "BCO TRIANGULO S.A.",
+    "url": "https://www.tribanco.com.br"
+  },
+  {
+    "code": 637,
+    "ispb": 60889128,
+    "cnpj": "60.889.128/0001-80",
+    "companyName": "BANCO SOFISA S.A.",
+    "name": "BCO SOFISA S.A.",
+    "url": "https://www.sofisa.com.br"
+  },
+  {
+    "code": 643,
+    "ispb": 62144175,
+    "cnpj": "62.144.175/0001-20",
+    "companyName": "Banco Pine S.A.",
+    "name": "BCO PINE S.A.",
+    "url": "https://www.pine.com"
+  },
+  {
+    "code": 652,
+    "ispb": 60872504,
+    "cnpj": "60.872.504/0001-23",
+    "companyName": "Itaú Unibanco Holding S.A.",
+    "name": "ITAÚ UNIBANCO HOLDING S.A.",
+    "url": "https://www.itau.com.br"
+  },
+  {
+    "code": 653,
+    "ispb": 61024352,
+    "cnpj": "61.024.352/0001-71",
+    "companyName": "BANCO VOITER S.A.",
+    "name": "BANCO VOITER",
+    "url": "https://www.bip.b.br"
+  },
+  {
+    "code": 654,
+    "ispb": 92874270,
+    "cnpj": "92.874.270/0001-40",
+    "companyName": "BANCO DIGIMAIS S.A.",
+    "name": "BCO DIGIMAIS S.A.",
+    "url": null
+  },
+  {
+    "code": 655,
+    "ispb": 59588111,
+    "cnpj": "59.588.111/0001-03",
+    "companyName": "Banco Votorantim S.A.",
+    "name": "BCO VOTORANTIM S.A.",
+    "url": "https://www.bancovotorantim.com.br"
+  },
+  {
+    "code": 707,
+    "ispb": 62232889,
+    "cnpj": "62.232.889/0001-90",
+    "companyName": "Banco Daycoval S.A.",
+    "name": "BCO DAYCOVAL S.A",
+    "url": "https://www.daycoval.com.br"
+  },
+  {
+    "code": 712,
+    "ispb": 78632767,
+    "cnpj": "78.632.767/0001-20",
+    "companyName": "Banco Ourinvest S.A.",
+    "name": "BCO OURINVEST S.A.",
+    "url": "https://www.ourinvest.com.br"
+  },
+  {
+    "code": 720,
+    "ispb": 80271455,
+    "cnpj": "80.271.455/0001-80",
+    "companyName": "BANCO RNX S.A.",
+    "name": "BCO RNX S.A.",
+    "url": null
+  },
+  {
+    "code": 739,
+    "ispb": 558456,
+    "cnpj": "00.558.456/0001-71",
+    "companyName": "Banco Cetelem S.A.",
+    "name": "BCO CETELEM S.A.",
+    "url": "https://www.cetelem.com.br"
+  },
+  {
+    "code": 741,
+    "ispb": 517645,
+    "cnpj": "00.517.645/0001-04",
+    "companyName": "BANCO RIBEIRAO PRETO S.A.",
+    "name": "BCO RIBEIRAO PRETO S.A.",
+    "url": "https://www.brp.com.br"
+  },
+  {
+    "code": 743,
+    "ispb": 795423,
+    "cnpj": "00.795.423/0001-45",
+    "companyName": "Banco Semear S.A.",
+    "name": "BANCO SEMEAR",
+    "url": "https://www.bancosemear.com.br"
+  },
+  {
+    "code": 745,
+    "ispb": 33479023,
+    "cnpj": "33.479.023/0001-80",
+    "companyName": "Banco Citibank S.A.",
+    "name": "BCO CITIBANK S.A.",
+    "url": "https://www.citibank.com.br"
+  },
+  {
+    "code": 746,
+    "ispb": 30723886,
+    "cnpj": "30.723.886/0001-62",
+    "companyName": "Banco Modal S.A.",
+    "name": "BCO MODAL S.A.",
+    "url": "https://www.bancomodal.com.br"
+  },
+  {
+    "code": 747,
+    "ispb": 1023570,
+    "cnpj": "01.023.570/0001-60",
+    "companyName": "Banco Rabobank International Brasil S.A.",
+    "name": "BCO RABOBANK INTL BRASIL S.A.",
+    "url": "https://www.rabobank.com.br"
+  },
+  {
+    "code": 748,
+    "ispb": 1181521,
+    "cnpj": "01.181.521/0001-55",
+    "companyName": "BANCO COOPERATIVO SICREDI S.A.",
+    "name": "BCO COOPERATIVO SICREDI S.A.",
+    "url": "https://www.sicredi.com.br"
+  },
+  {
+    "code": 751,
+    "ispb": 29030467,
+    "cnpj": "29.030.467/0001-66",
+    "companyName": "Scotiabank Brasil S.A. Banco Múltiplo",
+    "name": "SCOTIABANK BRASIL",
+    "url": "https://www.br.scotiabank.com"
+  },
+  {
+    "code": 752,
+    "ispb": 1522368,
+    "cnpj": "01.522.368/0001-82",
+    "companyName": "Banco BNP Paribas Brasil S.A.",
+    "name": "BCO BNP PARIBAS BRASIL S A",
+    "url": "https://www.bnpparibas.com.br"
+  },
+  {
+    "code": 753,
+    "ispb": 74828799,
+    "cnpj": "74.828.799/0001-45",
+    "companyName": "Novo Banco Continental S.A. - Banco Múltiplo",
+    "name": "NOVO BCO CONTINENTAL S.A. - BM",
+    "url": "https://www.nbcbank.com.br"
+  },
+  {
+    "code": 754,
+    "ispb": 76543115,
+    "cnpj": "76.543.115/0001-94",
+    "companyName": "Banco Sistema S.A.",
+    "name": "BANCO SISTEMA",
+    "url": "https://www.btgpactual.com"
+  },
+  {
+    "code": 755,
+    "ispb": 62073200,
+    "cnpj": "62.073.200/0001-21",
+    "companyName": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
+    "name": "BOFA MERRILL LYNCH BM S.A.",
+    "url": "https://www.ml.com"
+  },
+  {
+    "code": 756,
+    "ispb": 2038232,
+    "cnpj": "02.038.232/0001-64",
+    "companyName": "BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB",
+    "name": "BANCO SICOOB S.A.",
+    "url": "https://www.bancoob.com.br"
+  },
+  {
+    "code": 757,
+    "ispb": 2318507,
+    "cnpj": "02.318.507/0001-13",
+    "companyName": "BANCO KEB HANA DO BRASIL S.A.",
+    "name": "BCO KEB HANA DO BRASIL S.A.",
+    "url": "https://www.bancokeb.com.br"
+  }
+]
